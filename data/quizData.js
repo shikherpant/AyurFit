@@ -25,7 +25,7 @@ export const quiz=[
     },
     {
         "question":"APPETITE",
-        "a":"Irregular, Sometimes I feel hungrysometimes I dont",
+        "a":"Irregular, Sometimes I feel hungry sometimes I dont",
         "b":"Strong and sharp. Always feel hungry",
         "c":"Decent appetite. Have tendency to eat for comfort and taste"
     },
@@ -63,7 +63,7 @@ export const quiz=[
         "question":"MEMORY",
         "a":"Quick to learn but quick to forget. Short term memory is good",
         "b":"Average speed of learning. But once learnt, never forgets",
-        "c":"Slow to learn but remembers for a long time. Long trm memory is good"
+        "c":"Slow to learn but remembers for a long time. Long term memory is good"
     },
     {
         "question":"MIND",
@@ -79,7 +79,7 @@ export const quiz=[
     },
     {
         "question":"SLEEP EQUALITY",
-        "a":"Light and disturbed leep. I wake up easily in the morning",
+        "a":"Light and disturbed sleep. I wake up easily in the morning",
         "b":"Moderate & regular. I can go back to sleep easily",
         "c":"Deep & heavy. I cant easily wake up in the morning"
     },

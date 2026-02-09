@@ -8,6 +8,10 @@ const Quiz = () => {
     const navigate=useNavigate()
     
     useEffect(()=>{
+        setQuizStatus("Ready")
+    },[])
+    
+    useEffect(()=>{
         console.log(quizStatus)
         if(quizStatus=="Ready"){
             navigate("/quiz")
